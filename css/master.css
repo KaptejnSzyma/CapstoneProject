@@ -1,7 +1,44 @@
 body{
-  background-color: yellow;
+  font-family: 'Source Sans Pro', sans-serif;
+  background: darkblue;
+  color: white;
+  border: 100px solid #8eb9ff;
+  border-top: 0px;
+  margin: auto;
+  text-align: center
 }
 
 p{
-  font-family: monospace;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+form{
+  font-size: 1.2em;
+  margin-bottom: 100px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+input{
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 10px;
+}
+
+#submit{
+  border-radius: 25px;
+  padding: 40px 25px 40px 25px;
+  background-color: orange;
+  font-weight: bolder;
+  font-size: 32px;
+  margin-top: 50px;
+}
+
+
+#startup{
+  padding-bottom: 50px;
+}
+
+h3{
+  padding-bottom: 50px;
 }
